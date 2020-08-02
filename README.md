@@ -1,2 +1,2 @@
 # Why
-My portfolio because I'm supposed to be a star 🤩
+**My portfolio because I'm supposed to be a star 🤩**
