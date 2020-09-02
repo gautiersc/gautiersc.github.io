@@ -6,7 +6,7 @@ body {
 
 #title {
     position: absolute;
-    top: 44%; left: 48%;
+    top: 100%; left: 100%;
     transform: translate(-50%, -50%);
 	padding: 0; margin: 0;
     text-align: center;
