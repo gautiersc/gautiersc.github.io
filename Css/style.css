@@ -54,4 +54,20 @@ body {
     100% {
         transform: rotate(360deg);
     }
+#copy {
+    position: absolute;
+    top: 0%; left: 100%;
+    transform: translate(-50%, -50%);
+	padding: 0; margin: 0;
+    text-align: center;
+}
+#copy li {
+	display: inline-block;
+	margin: 0 11px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+  }
 }
