@@ -44,7 +44,10 @@ body {
     padding-bottom: 3px;
     text-decoration: none;
 }
-
+#nav p {
+        color: #ffffff;
+        font-family: 'Roboto', sans-serif;
+}
 #nav a:hover {
     animation: animationRotate 1.5s;
     font-size: 21px;
